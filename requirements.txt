@@ -4,7 +4,7 @@
 # during development.
 
 # GAE packages should match the "libraries" section of app.yaml
-django==1.2
+django==1.11.29
 jinja2==2.6
 markupsafe==0.15
 webapp2==2.3
