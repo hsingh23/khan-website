@@ -4,11 +4,11 @@
 # during development.
 
 # GAE packages should match the "libraries" section of app.yaml
-django==1.2
-jinja2==2.6
+django==2.2.24
+jinja2==2.11.3
 markupsafe==0.15
 webapp2==2.3
-webob==1.1.1
+webob==1.6.0a0
 
 # Required by unit testing
 coverage==3.5.1
