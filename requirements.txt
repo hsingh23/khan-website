@@ -8,7 +8,7 @@ django==1.2
 jinja2==2.6
 markupsafe==0.15
 webapp2==2.3
-webob==1.1.1
+webob==1.6.0a0
 
 # Required by unit testing
 coverage==3.5.1
