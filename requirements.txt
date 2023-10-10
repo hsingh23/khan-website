@@ -5,7 +5,7 @@
 
 # GAE packages should match the "libraries" section of app.yaml
 django==1.2
-jinja2==2.6
+jinja2==2.7.2
 markupsafe==0.15
 webapp2==2.3
 webob==1.1.1
